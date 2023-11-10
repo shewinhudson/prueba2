@@ -1,0 +1,8 @@
+.cajita{
+    padding: 10px;
+}
+
+.imagen{
+    height: 300px;
+    object-fit: cover;
+}
